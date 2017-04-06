@@ -9,10 +9,10 @@
 
 * Command:
 
-- rails s -b 0.0.0.0 (up application and share for the network)
+    rails s -b 0.0.0.0 (up application and share for the network)
 
 * For acess in other machines, run in browser:
 
-- 10.180.40.8:3000/
+    10.180.40.8:3000/
 
 * In the way, the home page is requested.
