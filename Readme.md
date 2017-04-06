@@ -5,7 +5,9 @@
 
 * Author: Rodrigo Carlos C. L. B. Leal with help of Wallison Rubens.
 
-* Network Scenario is defined in Diagram.pdf.
+* Network Scenario:
+
+(Diagram.pdf)
 
 * Command:
 
