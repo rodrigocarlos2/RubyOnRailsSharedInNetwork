@@ -7,7 +7,7 @@
 
 * Network Scenario:
 
-![intellij](Diagram.pdf)
+    ![Diagram of Network Behavior](Diagram.pdf)
 
 * Command:
 
